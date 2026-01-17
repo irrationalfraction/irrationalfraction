@@ -1,7 +1,8 @@
 <p align = center>
-<img width="636" height="391" alt="5HY2G0s" src="https://github.com/user-attachments/assets/07b3eec2-8b19-46cb-ba94-9dc49ea577bd" />
+<img width="536" height="391" alt="5HY2G0s" src="https://github.com/user-attachments/assets/07b3eec2-8b19-46cb-ba94-9dc49ea577bd" />
 </p>
-[ata](https://hiopes.atabook.org/)
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[atabook](https://hiopes.atabook.org)⠀⠀⠀[rentry]()
 
 <!--
 **kkyomoto/kkyomoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
