@@ -1,6 +1,5 @@
-<p align = center>
-you're so shy you can't even speak to the convenience store clerk.
-</p>
+
+$${\color{#ffffff}you're \space \color{#808080}so \space \color{#808080}{shy} \space \color{#ffffff}you  \space \color{#808080}can't  \space \color{#808080}even    \space \color{#808080}speak    \space \color{#808080}to    \space \color{#808080}the    \space \color{#808080}store  \space \color{#808080}{clerk.}} $$
 
 <p align = center>
 <img width="536" height="391" alt="5HY2G0s" src="https://github.com/user-attachments/assets/07b3eec2-8b19-46cb-ba94-9dc49ea577bd" />
