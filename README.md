@@ -1,5 +1,5 @@
 
-$${\color{#ffffff}you're \space \color{#808080}so \space \color{#808080}{shy} \space \color{#ffffff}you  \space \color{#808080}can't  \space \color{#808080}even    \space \color{#808080}speak    \space \color{#808080}to    \space \color{#808080}the    \space \color{#808080}store  \space \color{#808080}{clerk.}} $$
+$${\color{#e0e0e0}you're \space \color{#949494}so \space \color{#949494}{shy} \space \color{#e0e0e0}you  \space \color{#949494}can't  \space \color{#949494}even    \space \color{#949494}speak    \space \color{#949494}to    \space \color{#949494}the    \space \color{#949494}store  \space \color{#949494}{clerk.}} $$
 
 <p align = center>
 <img width="536" height="391" alt="5HY2G0s" src="https://github.com/user-attachments/assets/07b3eec2-8b19-46cb-ba94-9dc49ea577bd" />
