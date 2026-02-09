@@ -1,23 +1,15 @@
-
-$${\color{#e0e0e0}you're \space \color{#949494}so \space \color{#949494}{shy} \space \color{#e0e0e0}you  \space \color{#949494}can't  \space \color{#949494}even    \space \color{#949494}speak    \space \color{#949494}to    \space \color{#949494}the    \space \color{#949494}store  \space \color{#949494}{clerk.}} $$
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[atabook](https://kkymoto.atabook.org)ㅤ[rentry](https://rentry.org/kkymoto)
 
 <p align = center>
-<img width="536" height="391" alt="5HY2G0s" src="https://github.com/user-attachments/assets/07b3eec2-8b19-46cb-ba94-9dc49ea577bd" />
+<img width="536" height="391" alt="5HY2G0s" src="https://github.com/user-attachments/assets/2f855679-059f-4228-9786-9d30dc9e9dcd" />
 </p>
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[atabook](https://kkymoto.atabook.org)⠀⠀⠀[rentry](https://rentry.org/kkymoto)
+<p align = center>
+im not very social
+</p>
 
-<!--
-**kkyomoto/kkyomoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align = center>
+c*h always and encㅤ,ㅤw2i pref
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
