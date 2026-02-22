@@ -1,4 +1,4 @@
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[atabook](https://kkymoto.atabook.org)ㅤ[rentry](https://rentry.org/kkymoto)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[atabook](https://fraction.atabook.org)ㅤ[rentry](https://rentry.org/kkymoto)
 <p align = center>
 thhajnsk for 200 folwroles
 </p>
