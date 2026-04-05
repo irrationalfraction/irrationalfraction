@@ -1,14 +1,16 @@
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="https://hits.sh/github.com/hiopes/"><img alt="Hits" src="https://hits.sh/github.com/hiopes.svg?style=plastic&label=%E2%A0%80%E2%99%A1%20%D5%9E&color=1585dd&labelColor=222731"/></a>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="https://hits.sh/github.com/irrationalfraction/"><img alt="Hits" src="https://hits.sh/github.com/irrationalfraction.svg?style=plastic&label=%E3%85%A4bombs%E3%85%A4&extraCount=20000&color=536c39&labelColor=2d2f37"/></a>
+
+
 <p align = center>
-im not very social
+𝗂𝗆 𝗇𝗈𝗍 𝗏𝖾𝗋𝗒 𝗌𝗈𝖼𝗂𝖺𝗅
 </p>
 
 <p align = center>
-c*h encouragedㅤ𓏺ㅤmainly offtabㅤw2i pref
+𝖼*𝗁 𝖾𝗇𝖼𝗈𝗎𝗋𝖺𝗀𝖾𝖽ㅤ𓏺ㅤ𝗆𝖺𝗂𝗇𝗅𝗒 𝗈𝖿𝖿𝗍𝖺𝖻ㅤ𓏺ㅤ𝗐2𝗂 𝗉𝗋𝖾𝖿
 </p>
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤ[atabook](https://fraction.atabook.org)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤ[𝖺𝗍𝖺𝖻𝗈𝗈𝗄](https://fraction.atabook.org)
 ㅤ
 
 
